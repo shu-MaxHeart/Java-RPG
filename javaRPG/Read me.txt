@@ -190,4 +190,100 @@ In addition, it now also activates when dodged or when a critical hit is made.
 This is a shit update that adjusts strong characters upwards.
 We'll do our best from here to adjust the others (per sorcerer) upwards.
 
+Transla================================
+About implementation
+================================
+Runtime directory.
+C:|UserShuexneDriveDisktopJavaRPG>.
+
+Run order.
+>javaRPGRPGRPGtemple.java
+
+O.
+>javac RPGRPGtemple.java
+>java RPG.RPGtemple.java
+
+================================
+Details of each file
+================================
+RPGRPGtemple.java
+
+RPGReaderFile.java
+RPGReaderFile.class
+
+-job_csv.csv
+
+All-knowing shortcuts.
+This is obviously an abbreviation for running an EXE, the "command line" (also known as terminal) that we need to handle.
+The job file is empty, so don't worry about overwriting it to run the command line.
+Only this file is not usable on Mac computers using Terminal.
+
+================================
+Update history
+================================
+Version 1.01 added: 9 Nov 2021, 16:08.
+Recently switched to RANDOM operation.
+Sue is very strong.
+Please adjust with care.
+Swordsmen are now attacking continuously.
+Continuous attacks have a 25% chance of triggering.
+Not triggered by dodge or evade.
+
+Version 1.02 added: 10 November 2021, 21:40.
+Status is now managed in CSV format files.
+When activating 'Flame' or 'Heal', there is now a certain activation probability.
+If the combat fails, it will move on and lose the action move.
+When using Heal, heal is now set to apply to itself.
+Now everyone attacks characters other than themselves.
+The concept of experience has been introduced.
+With each attack and heal, you gain experience.
+If you attack a higher level enemy than yourself, the experience gained increases.
+If you attack an enemy lower level than you, you gain less experience.
+Just because you are the first to level up does not mean that you will reach the highest level.
+Extra level.
+Level is a function of gaining a certain amount of experience to increase your status.
+The experience required to level up increases as you level up.
+As your maximum HP and MP increase, your HP and MP will recover at the rate of increase.
+The above characteristics tilt the probability towards a somewhat balanced state.
+However, Mickey and Suez remain as strong as ever.
+The game usually lasts between 20 and 50 moves.
+
+CSV Monk is not assigned to anyone.
+They are free to do what they want.
+You can also create new professions in CSV.
+
+
+-11 Nov 2021, 13:59, version 1.03.
+Finally released an update that takes advantage of the thin "speed" state.
+Action options for "speed" have been created.
+Action options depend on the overall speed.
+The higher the "speed", the higher the probability of selection.
+This makes previously unattainable things possible.
+Run (swordsman) and Dia (hero) play against each other.
+Sue is the fastest, but doesn't seem to benefit from this.
+Miki on the other hand... Good luck to Miki.
+
+1.04, see 16 November 2021, 16:33.
+Hit, focus and deflection rates (HIT, CLT and ABS rates) added.
+The success rate is close to 97%.
+However, it fails reliably at as low as 3%, and the probability of failure increases as the evasion rate increases.
+The basic outlier rate is 1%, calculated as HIT*100/(100+ABS).
+In simple terms, the calculation is 97%*100%/(100%+1%) = 96.039. % ≈ 96.04% hit.
+The enrichment factor is "enrichment factor x success rate", and 2% does not always mean 2%.
+Using the above mentioned success rate of 97%, 97% x 2% = 1.94% would be the matching factor.
+The luck factor is increased, but Lana's (swordsman) attack power does not stop at 1.03.
+Sue (witch) has been turned into an airship.
+These three add +1% with each level up.
+The success rate is certainly over 100%, but that's not a problem since they are designed for 100%.
+By the way, magic attacks don't take into account hit, hit-win or evasion rates.
+They will always hit.
+
+Look at 1.05, 17 Nov 2021, 10:57.
+A bit of a shit update.
+Improved the swordsman's ability to launch an unlimited number of attacks in a row.
+"Single shot damage halved" and "Judgement is now harder each time it is triggered".
+Also now activates when you dodge or take a critical hit.
+This is a shitty update that buffs strong characters upwards.
+From now on we'll try to modify others upwards (for mages).
+
 Translated with www.DeepL.com/Translator (free version)
