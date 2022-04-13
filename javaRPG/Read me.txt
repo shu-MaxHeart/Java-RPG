@@ -1,95 +1,193 @@
 ================================
-ŽÀs‚É‚Â‚¢‚Ä
+å®Ÿè¡Œã«ã¤ã„ã¦
 ================================
-ŽÀsŽž‚ÌƒfƒBƒŒƒNƒgƒŠ
-C:\Users\shuex\OneDrive\ƒfƒXƒNƒgƒbƒv\javaRPG>
+å®Ÿè¡Œæ™‚ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
+C:\Users\shuex\OneDrive\ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—\javaRPG>
 
-ŽÀsƒRƒ}ƒ“ƒh
+å®Ÿè¡Œã‚³ãƒžãƒ³ãƒ‰
 >java RPG\RPGtemple.java
 
-‚à‚µ‚­‚Í
+ã‚‚ã—ãã¯
 >javac RPG\RPGtemple.java
 >java RPG.RPGtemple
 
 ================================
-Šeƒtƒ@ƒCƒ‹‚ÌÚ×
+å„ãƒ•ã‚¡ã‚¤ãƒ«ã®è©³ç´°
 ================================
-ERPG\RPGtemple.java
+ãƒ»RPG\RPGtemple.java
 
-ERPG\ReaderFile.java
-ERPG\ReaderFile.class
+ãƒ»RPG\ReaderFile.java
+ãƒ»RPG\ReaderFile.class
 
-Ejob_csv.csv
+ãƒ»job_csv.csv
 
-E‘S’m‘S”\‚ÌƒVƒ‡[ƒgƒJƒbƒg
-Œ¾‚í‚¸‚à‚ª‚ÈA–l‚½‚¿‚Ì’”q‚·‚é‚×‚«EXEuƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒgviƒ^[ƒ~ƒiƒ‹‚Æ‚à‚¢‚¤j‚ð‹N“®‚·‚éƒVƒ‡[ƒgƒJƒbƒg‚Å‚·B
-ì‹Æƒtƒ@ƒCƒ‹‚ª‹ó”’‚É‚È‚Á‚Ä‚¢‚é‚Ì‚ÅA‚í‚´‚í‚´‘‚«Š·‚¦‚È‚­‚Ä‚àƒRƒ}ƒ“ƒhƒvƒƒ“ƒg‚ð‹N“®‚µ‚Ä‚­‚ê‚Ü‚·B
-ƒ^[ƒ~ƒiƒ‹‚ðŽg—p‚·‚éMac‚Å‚Í—Bˆê—˜—p‚Å‚«‚È‚¢ƒtƒ@ƒCƒ‹‚Å‚·B
+ãƒ»å…¨çŸ¥å…¨èƒ½ã®ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆ
+è¨€ã‚ãšã‚‚ãŒãªã€åƒ•ãŸã¡ã®å´‡æ‹ã™ã‚‹ã¹ãEXEã€Œã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã€ï¼ˆã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã¨ã‚‚ã„ã†ï¼‰ã‚’èµ·å‹•ã™ã‚‹ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã§ã™ã€‚
+ä½œæ¥­ãƒ•ã‚¡ã‚¤ãƒ«ãŒç©ºç™½ã«ãªã£ã¦ã„ã‚‹ã®ã§ã€ã‚ã–ã‚ã–æ›¸ãæ›ãˆãªãã¦ã‚‚ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒˆã‚’èµ·å‹•ã—ã¦ãã‚Œã¾ã™ã€‚
+ã‚¿ãƒ¼ãƒŸãƒŠãƒ«ã‚’ä½¿ç”¨ã™ã‚‹Macã§ã¯å”¯ä¸€åˆ©ç”¨ã§ããªã„ãƒ•ã‚¡ã‚¤ãƒ«ã§ã™ã€‚
 
 ================================
-XV—š—ð
+æ›´æ–°å±¥æ­´
 ================================
-E2021”N11ŒŽ9“ú16Žž08•ª’Ç‹L@Ver 1.01
-V‚µ‚­random‚És“®‚·‚é‚æ‚¤‚É‚µ‚Ü‚µ‚½B
-ƒXƒD‚ª”ñí‚É‹­‚¢‚Å‚·B
-—D‚µ‚­’²®‚µ‚Ä‚ ‚°‚Ä‚­‚¾‚³‚¢B
-Œ•Žm‚Í˜A‘±UŒ‚‚·‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
-˜A‘±UŒ‚‚Í‘å‘Ì25%‚ÌŠm—¦‚Å”­“®‚µ‚Ü‚·B
-‰ñ”ð‚³‚ê‚½‚è‚·‚é‚Æ”­“®‚µ‚Ü‚¹‚ñB
+ãƒ»2021å¹´11æœˆ9æ—¥16æ™‚08åˆ†è¿½è¨˜ã€€Ver 1.01
+æ–°ã—ãrandomã«è¡Œå‹•ã™ã‚‹ã‚ˆã†ã«ã—ã¾ã—ãŸã€‚
+ã‚¹ã‚¥ãŒéžå¸¸ã«å¼·ã„ã§ã™ã€‚
+å„ªã—ãèª¿æ•´ã—ã¦ã‚ã’ã¦ãã ã•ã„ã€‚
+å‰£å£«ã¯é€£ç¶šæ”»æ’ƒã™ã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚
+é€£ç¶šæ”»æ’ƒã¯å¤§ä½“25%ã®ç¢ºçŽ‡ã§ç™ºå‹•ã—ã¾ã™ã€‚
+å›žé¿ã•ã‚ŒãŸã‚Šã™ã‚‹ã¨ç™ºå‹•ã—ã¾ã›ã‚“ã€‚
 
-E2021”N11ŒŽ10“ú9Žž40•ª’Ç‹L@Ver 1.02
-ƒXƒe[ƒ^ƒX‚ðCSVŒ`Ž®‚Ìƒtƒ@ƒCƒ‹‚ÅŠÇ—‚·‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
-ƒtƒŒƒCƒ€Aƒq[ƒ‹”­“®Žž‚ÍƒXƒD‚ªŠm’è‚Ås“®‚·‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
-í“¬•s”\‚Å‚à“®‚­‚½‚ßA‚Pƒ^[ƒ“s“®‚ª–³‘Ê‚É‚È‚è‚Ü‚·B
-ƒq[ƒ‹‚ÌŽg—pŽž‚ÍAŽ©g‚Ö‚©‚¯‚é‚æ‚¤‚É’²®‚µ‚Ü‚µ‚½B
-‘Sˆõ‚ªŽ©•ªˆÈŠO‚ÌƒLƒƒƒ‰‚ÉUŒ‚‚·‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
-ŒoŒ±’l‚ÌŠT”O‚ðŽæ‚è“ü‚ê‚Ü‚µ‚½B
-UŒ‚A‰ñ•œ–ˆ‚ÉŒoŒ±’l‚ð“üŽè‚µ‚Ü‚·B
-Ž©•ª‚æ‚èƒŒƒxƒ‹‚Ì‚‚¢‘ŠŽè‚ÉUŒ‚‚·‚é‚ÆAŽè‚É“ü‚éŒoŒ±’l‚ª‘‰Á‚µ‚Ü‚·
-Ž©•ª‚æ‚èƒŒƒxƒ‹‚Ì’á‚¢‘ŠŽè‚ÉUŒ‚‚·‚é‚ÆAŽè‚É“ü‚éŒoŒ±’l‚ªŒ¸­‚µ‚Ü‚·
-‚¢‚¿‘‚­ƒŒƒxƒ‹‚ðã‚°‚½‚©‚ç‚Æ‚¢‚Á‚Äˆê”ÔƒŒƒxƒ‹‚ª‚‚­‚È‚é‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
-ƒŒƒxƒ‹ƒAƒbƒv‚ð’Ç‰Á‚µ‚Ü‚µ‚½B
-ƒŒƒxƒ‹ƒAƒbƒv‚ÍŽw’è‚ÌŒoŒ±’l‚ðW‚ß‚é‚±‚Æ‚ÅƒXƒe[ƒ^ƒX‚ª‹­‰»‚³‚ê‚é‹@”\‚Å‚·B
-ƒŒƒxƒ‹ƒAƒbƒvŽž‚É•K—v‚ÈŒoŒ±’l‚ÍAƒŒƒxƒ‹ƒAƒbƒv–ˆ‚É‘‚¦‚Ä‚¢‚«‚Ü‚·B
-Å‘åHPAÅ‘åMP‚ªã¸‚·‚é‚ÆAã¸•ª‚¾‚¯HPAMP‚ª‰ñ•œ‚µ‚Ü‚·B
-ã‹L‚Ì‹@”\‚É‚æ‚èA‘½­Ÿ—¦‚ªƒoƒ‰ƒ“ƒX“I‚ÉŒX‚«‚Ü‚µ‚½B
-‚½‚¾ƒ~ƒLAƒXƒD‚Í‘Š•Ï‚í‚ç‚¸‹­‚¢‚Å‚·B
-‘å‘Ì20`50ƒ^[ƒ“‚ÅŒˆ’…‚ª’…‚«‚Ü‚·B
+ãƒ»2021å¹´11æœˆ10æ—¥9æ™‚40åˆ†è¿½è¨˜ã€€Ver 1.02
+ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚’CSVå½¢å¼ã®ãƒ•ã‚¡ã‚¤ãƒ«ã§ç®¡ç†ã™ã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚
+ãƒ•ãƒ¬ã‚¤ãƒ ã€ãƒ’ãƒ¼ãƒ«ç™ºå‹•æ™‚ã¯ã‚¹ã‚¥ãŒç¢ºå®šã§è¡Œå‹•ã™ã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚
+æˆ¦é—˜ä¸èƒ½ã§ã‚‚å‹•ããŸã‚ã€ï¼‘ã‚¿ãƒ¼ãƒ³è¡Œå‹•ãŒç„¡é§„ã«ãªã‚Šã¾ã™ã€‚
+ãƒ’ãƒ¼ãƒ«ã®ä½¿ç”¨æ™‚ã¯ã€è‡ªèº«ã¸ã‹ã‘ã‚‹ã‚ˆã†ã«èª¿æ•´ã—ã¾ã—ãŸã€‚
+å…¨å“¡ãŒè‡ªåˆ†ä»¥å¤–ã®ã‚­ãƒ£ãƒ©ã«æ”»æ’ƒã™ã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚
+çµŒé¨“å€¤ã®æ¦‚å¿µã‚’å–ã‚Šå…¥ã‚Œã¾ã—ãŸã€‚
+æ”»æ’ƒã€å›žå¾©æ¯Žã«çµŒé¨“å€¤ã‚’å…¥æ‰‹ã—ã¾ã™ã€‚
+è‡ªåˆ†ã‚ˆã‚Šãƒ¬ãƒ™ãƒ«ã®é«˜ã„ç›¸æ‰‹ã«æ”»æ’ƒã™ã‚‹ã¨ã€æ‰‹ã«å…¥ã‚‹çµŒé¨“å€¤ãŒå¢—åŠ ã—ã¾ã™
+è‡ªåˆ†ã‚ˆã‚Šãƒ¬ãƒ™ãƒ«ã®ä½Žã„ç›¸æ‰‹ã«æ”»æ’ƒã™ã‚‹ã¨ã€æ‰‹ã«å…¥ã‚‹çµŒé¨“å€¤ãŒæ¸›å°‘ã—ã¾ã™
+ã„ã¡æ—©ããƒ¬ãƒ™ãƒ«ã‚’ä¸Šã’ãŸã‹ã‚‰ã¨ã„ã£ã¦ä¸€ç•ªãƒ¬ãƒ™ãƒ«ãŒé«˜ããªã‚‹ã‚ã‘ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
+ãƒ¬ãƒ™ãƒ«ã‚¢ãƒƒãƒ—ã‚’è¿½åŠ ã—ã¾ã—ãŸã€‚
+ãƒ¬ãƒ™ãƒ«ã‚¢ãƒƒãƒ—ã¯æŒ‡å®šã®çµŒé¨“å€¤ã‚’é›†ã‚ã‚‹ã“ã¨ã§ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ãŒå¼·åŒ–ã•ã‚Œã‚‹æ©Ÿèƒ½ã§ã™ã€‚
+ãƒ¬ãƒ™ãƒ«ã‚¢ãƒƒãƒ—æ™‚ã«å¿…è¦ãªçµŒé¨“å€¤ã¯ã€ãƒ¬ãƒ™ãƒ«ã‚¢ãƒƒãƒ—æ¯Žã«å¢—ãˆã¦ã„ãã¾ã™ã€‚
+æœ€å¤§HPã€æœ€å¤§MPãŒä¸Šæ˜‡ã™ã‚‹ã¨ã€ä¸Šæ˜‡åˆ†ã ã‘HPã€MPãŒå›žå¾©ã—ã¾ã™ã€‚
+ä¸Šè¨˜ã®æ©Ÿèƒ½ã«ã‚ˆã‚Šã€å¤šå°‘å‹çŽ‡ãŒãƒãƒ©ãƒ³ã‚¹çš„ã«å‚¾ãã¾ã—ãŸã€‚
+ãŸã ãƒŸã‚­ã€ã‚¹ã‚¥ã¯ç›¸å¤‰ã‚ã‚‰ãšå¼·ã„ã§ã™ã€‚
+å¤§ä½“20ï½ž50ã‚¿ãƒ¼ãƒ³ã§æ±ºç€ãŒç€ãã¾ã™ã€‚
 
-CSV‚Ì‘m—µ‚Í’N‚É‚àŠ„‚è“–‚Ä‚Ä‚¢‚Ü‚¹‚ñB
-‚¨D‚«‚É‚Ç‚¤‚¼B
-‚»‚ê‚ÆCSV‚ÅV‚µ‚¢E‹Æ‚ðì‚Á‚Ä‚à‚¢‚¢‚ÆŽv‚¢‚Ü‚·B
+CSVã®åƒ§ä¾¶ã¯èª°ã«ã‚‚å‰²ã‚Šå½“ã¦ã¦ã„ã¾ã›ã‚“ã€‚
+ãŠå¥½ãã«ã©ã†ãžã€‚
+ãã‚Œã¨CSVã§æ–°ã—ã„è·æ¥­ã‚’ä½œã£ã¦ã‚‚ã„ã„ã¨æ€ã„ã¾ã™ã€‚
 
 
-E2021”N11ŒŽ11“ú13Žž59•ª@Ver 1.03
-‚Â‚¢‚É–³ˆÓ–¡ƒXƒe[ƒ^ƒXu‘f‘‚³v‚ð¶‚©‚·XV‚ªŽQ‚è‚Ü‚µ‚½B
-u‘f‘‚³v‚É‚æ‚és“®Šm—¦‚ª¶‚Ü‚ê‚Ü‚µ‚½B
-‘S‘Ì‚Ì‘¬‚³‚É‰ž‚¶‚ÄAs“®‚Å‚«‚éŠm—¦‚ªˆÙ‚È‚é‚µŽd‘g‚Ý‚Å‚·B
-u‘f‘‚³v‚ª‚‚¢‚Ù‚ÇA‘I‚Î‚ê‚â‚·‚­‚È‚è‚Ü‚·B
-‚±‚ê‚É‚æ‚Á‚Ä¡‚Ü‚Å“V‰º‚ðŠl‚ê‚È‚©‚Á‚½
-ƒ‰ƒ“iŒ•Žmj‚Æƒ_ƒCƒ„i—EŽÒj‚ª–\‘–‚µŽn‚ß‚Ü‚µ‚½B
-‘f‘‚³‚ªÅ‚à‚‚¢ƒXƒD‚Å‚·‚ªA‚±‚ê‚Ì‰¶Œb‚ÍŽó‚¯‚È‚©‚Á‚½‚Ý‚½‚¢‚Å‚·‚ËB
-ƒ~ƒL‚ÍcŠæ’£‚Á‚Ä‚­‚¾‚³‚¢B
+ãƒ»2021å¹´11æœˆ11æ—¥13æ™‚59åˆ†ã€€Ver 1.03
+ã¤ã„ã«ç„¡æ„å‘³ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã€Œç´ æ—©ã•ã€ã‚’ç”Ÿã‹ã™æ›´æ–°ãŒå‚ã‚Šã¾ã—ãŸã€‚
+ã€Œç´ æ—©ã•ã€ã«ã‚ˆã‚‹è¡Œå‹•ç¢ºçŽ‡ãŒç”Ÿã¾ã‚Œã¾ã—ãŸã€‚
+å…¨ä½“ã®é€Ÿã•ã«å¿œã˜ã¦ã€è¡Œå‹•ã§ãã‚‹ç¢ºçŽ‡ãŒç•°ãªã‚‹ã—ä»•çµ„ã¿ã§ã™ã€‚
+ã€Œç´ æ—©ã•ã€ãŒé«˜ã„ã»ã©ã€é¸ã°ã‚Œã‚„ã™ããªã‚Šã¾ã™ã€‚
+ã“ã‚Œã«ã‚ˆã£ã¦ä»Šã¾ã§å¤©ä¸‹ã‚’ç²ã‚Œãªã‹ã£ãŸ
+ãƒ©ãƒ³ï¼ˆå‰£å£«ï¼‰ã¨ãƒ€ã‚¤ãƒ¤ï¼ˆå‹‡è€…ï¼‰ãŒæš´èµ°ã—å§‹ã‚ã¾ã—ãŸã€‚
+ç´ æ—©ã•ãŒæœ€ã‚‚é«˜ã„ã‚¹ã‚¥ã§ã™ãŒã€ã“ã‚Œã®æ©æµã¯å—ã‘ãªã‹ã£ãŸã¿ãŸã„ã§ã™ã­ã€‚
+ãƒŸã‚­ã¯â€¦é ‘å¼µã£ã¦ãã ã•ã„ã€‚
 
-E2021”N11ŒŽ16“ú16Žž33•ª@Ver 1.04
-u–½’†—¦vAu‰ïS—¦vAu‰ñ”ð—¦vi‚»‚ê‚¼‚êuHIT—¦vAuCLT—¦vAuABS—¦vj‚ª’Ç‰Á‚³‚ê‚Ü‚µ‚½B
-–½’†—¦‚ÍŠî–{“I‚É97%‚Å‚·B
-‚Å‚àŠmŽÀ‚É3%‚ÅŠO‚ê‚é‚í‚¯‚Å‚Í‚È‚­A‰ñ”ð—¦‚ª‘‚¦‚é‚±‚Æ‚É‚æ‚è‚³‚ç‚ÉŠO‚ê‚â‚·‚­‚È‚éƒVƒXƒeƒ€‚Å‚·B
-Šî–{‰ñ”ð—¦‚Í1%‚ÅÝ’è‚³‚ê‚Ä‚¨‚èAHIT*100/(100+ABS)‚ÅŒvŽZ‚³‚ê‚Ü‚·B
-ˆê‰žŒvŽZ‚·‚é‚ÆA97%*100%/(100%+1%)=96.039c%à96.04%‚ÅUŒ‚‚ª“–‚½‚éŒvŽZ‚Å‚·B
-‰ïS—¦‚Íu‰ïS—¦~–½’†—¦v‚Å‚·B2%‚¾‚©‚ç‚ÆŒ¾‚Á‚Ä•K‚¸2%‚Åo‚é‚í‚¯‚Å‚Í‚ ‚è‚Ü‚¹‚ñB
-æ‚Ù‚Ç‚Ì97%‚Ì–½’†—¦‚ÅŒvŽZ‚·‚é‚ÆA97%~2%=1.94%‚Å‰ïS”»’è‚É‚È‚éÝŒv‚Å‚·B
-‰^—v‘f‚ª‚‚Ü‚Á‚Ä‚Ü‚¢‚è‚Ü‚µ‚½‚ªA1.03‚©‚çƒ‰ƒ“iŒ•Žmj‚Ì–Òi‚ªŽ~‚Ü‚è‚Ü‚¹‚ñB
-ƒXƒDi–‚pŽtj‚ÉŽŠ‚Á‚Ä‚Í‹ó‹C‚É‚È‚Á‚Ä‚«‚Ü‚µ‚½B
-‚±‚Ì3‚Â‚ÌƒXƒe[ƒ^ƒX‚ÍƒŒƒxƒ‹ƒAƒbƒv–ˆ‚Éu+1%v‚³‚ê‚Ä‚¢‚«‚Ü‚·B
-–½’†—¦‚ÍŠmŽÀ‚É100%‚ð’´‚¦‚Ü‚·‚ªA100%‚ð’´‚¦‚é‘z’è‚ÅÝŒv‚³‚ê‚Ä‚¢‚é‚Ì‚Å–â‘è‚ ‚è‚Ü‚¹‚ñB
-‚¿‚È‚Ý‚É–‚–@UŒ‚‚Í–½’†—¦A‰ïS—¦A‰ñ”ð—¦‚ðl—¶‚µ‚Ü‚¹‚ñB
-•K‚¸“–‚½‚è‚Ü‚·B
+ãƒ»2021å¹´11æœˆ16æ—¥16æ™‚33åˆ†ã€€Ver 1.04
+ã€Œå‘½ä¸­çŽ‡ã€ã€ã€Œä¼šå¿ƒçŽ‡ã€ã€ã€Œå›žé¿çŽ‡ã€ï¼ˆãã‚Œãžã‚Œã€ŒHITçŽ‡ã€ã€ã€ŒCLTçŽ‡ã€ã€ã€ŒABSçŽ‡ã€ï¼‰ãŒè¿½åŠ ã•ã‚Œã¾ã—ãŸã€‚
+å‘½ä¸­çŽ‡ã¯åŸºæœ¬çš„ã«97%ã§ã™ã€‚
+ã§ã‚‚ç¢ºå®Ÿã«3%ã§å¤–ã‚Œã‚‹ã‚ã‘ã§ã¯ãªãã€å›žé¿çŽ‡ãŒå¢—ãˆã‚‹ã“ã¨ã«ã‚ˆã‚Šã•ã‚‰ã«å¤–ã‚Œã‚„ã™ããªã‚‹ã‚·ã‚¹ãƒ†ãƒ ã§ã™ã€‚
+åŸºæœ¬å›žé¿çŽ‡ã¯1%ã§è¨­å®šã•ã‚Œã¦ãŠã‚Šã€HIT*100/(100+ABS)ã§è¨ˆç®—ã•ã‚Œã¾ã™ã€‚
+ä¸€å¿œè¨ˆç®—ã™ã‚‹ã¨ã€97%*100%/(100%+1%)=96.039â€¦%â‰’96.04%ã§æ”»æ’ƒãŒå½“ãŸã‚‹è¨ˆç®—ã§ã™ã€‚
+ä¼šå¿ƒçŽ‡ã¯ã€Œä¼šå¿ƒçŽ‡Ã—å‘½ä¸­çŽ‡ã€ã§ã™ã€‚2%ã ã‹ã‚‰ã¨è¨€ã£ã¦å¿…ãš2%ã§å‡ºã‚‹ã‚ã‘ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
+å…ˆã»ã©ã®97%ã®å‘½ä¸­çŽ‡ã§è¨ˆç®—ã™ã‚‹ã¨ã€97%Ã—2%=1.94%ã§ä¼šå¿ƒåˆ¤å®šã«ãªã‚‹è¨­è¨ˆã§ã™ã€‚
+é‹è¦ç´ ãŒé«˜ã¾ã£ã¦ã¾ã„ã‚Šã¾ã—ãŸãŒã€1.03ã‹ã‚‰ãƒ©ãƒ³ï¼ˆå‰£å£«ï¼‰ã®çŒ›é€²ãŒæ­¢ã¾ã‚Šã¾ã›ã‚“ã€‚
+ã‚¹ã‚¥ï¼ˆé­”è¡“å¸«ï¼‰ã«è‡³ã£ã¦ã¯ç©ºæ°—ã«ãªã£ã¦ãã¾ã—ãŸã€‚
+ã“ã®3ã¤ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã¯ãƒ¬ãƒ™ãƒ«ã‚¢ãƒƒãƒ—æ¯Žã«ã€Œ+1%ã€ã•ã‚Œã¦ã„ãã¾ã™ã€‚
+å‘½ä¸­çŽ‡ã¯ç¢ºå®Ÿã«100%ã‚’è¶…ãˆã¾ã™ãŒã€100%ã‚’è¶…ãˆã‚‹æƒ³å®šã§è¨­è¨ˆã•ã‚Œã¦ã„ã‚‹ã®ã§å•é¡Œã‚ã‚Šã¾ã›ã‚“ã€‚
+ã¡ãªã¿ã«é­”æ³•æ”»æ’ƒã¯å‘½ä¸­çŽ‡ã€ä¼šå¿ƒçŽ‡ã€å›žé¿çŽ‡ã‚’è€ƒæ…®ã—ã¾ã›ã‚“ã€‚
+å¿…ãšå½“ãŸã‚Šã¾ã™ã€‚
 
-E2021”N11ŒŽ17“ú10Žž57•ª@Ver 1.05
-‚¿‚å‚±‚Á‚ÆƒNƒ\XV‚ð‚µ‚Ü‚µ‚½B
-Œ•Žm‚Ì˜A‘±UŒ‚‚ðu–³ŒÀ‚Éo‚¹‚é‚æ‚¤‚Év’²®‚µ‚Ü‚µ‚½B
-–³ŒÀ‚É‚ÆŒ¾‚Á‚Ä‚à‚³‚·‚ª‚É–³‘o‚³‚¹‚é‚í‚¯‚É‚à‚¢‚©‚È‚¢‚Ì‚ÅAuˆêŒ‚‚Ì—^ƒ_ƒ[ƒW”¼Œ¸v‚Æu”­“®‚·‚é‚½‚Ñ”»’è‚ªŒµ‚µ‚­‚È‚év‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
-‚Â‚¢‚Å‚É‚©‚í‚³‚ê‚½Û‚âAƒNƒŠƒeƒBƒJƒ‹‚ðo‚µ‚½Žž‚à”­“®‚·‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
-‹­‚¢ƒLƒƒƒ‰‚ðã•û’²®‚·‚éƒNƒ\XV‚Å‚·B
-‚±‚±‚©‚çŠæ’£‚Á‚Ä‘¼i–‚pŽt‚ ‚½‚èj‚ðã•ûC³‚µ‚Ü‚·B
+ãƒ»2021å¹´11æœˆ17æ—¥10æ™‚57åˆ†ã€€Ver 1.05
+ã¡ã‚‡ã“ã£ã¨ã‚¯ã‚½æ›´æ–°ã‚’ã—ã¾ã—ãŸã€‚
+å‰£å£«ã®é€£ç¶šæ”»æ’ƒã‚’ã€Œç„¡é™ã«å‡ºã›ã‚‹ã‚ˆã†ã«ã€èª¿æ•´ã—ã¾ã—ãŸã€‚
+ç„¡é™ã«ã¨è¨€ã£ã¦ã‚‚ã•ã™ãŒã«ç„¡åŒã•ã›ã‚‹ã‚ã‘ã«ã‚‚ã„ã‹ãªã„ã®ã§ã€ã€Œä¸€æ’ƒã®ä¸Žãƒ€ãƒ¡ãƒ¼ã‚¸åŠæ¸›ã€ã¨ã€Œç™ºå‹•ã™ã‚‹ãŸã³åˆ¤å®šãŒåŽ³ã—ããªã‚‹ã€ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚
+ã¤ã„ã§ã«ã‹ã‚ã•ã‚ŒãŸéš›ã‚„ã€ã‚¯ãƒªãƒ†ã‚£ã‚«ãƒ«ã‚’å‡ºã—ãŸæ™‚ã‚‚ç™ºå‹•ã™ã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚
+å¼·ã„ã‚­ãƒ£ãƒ©ã‚’ä¸Šæ–¹èª¿æ•´ã™ã‚‹ã‚¯ã‚½æ›´æ–°ã§ã™ã€‚
+ã“ã“ã‹ã‚‰é ‘å¼µã£ã¦ä»–ï¼ˆé­”è¡“å¸«ã‚ãŸã‚Šï¼‰ã‚’ä¸Šæ–¹ä¿®æ­£ã—ã¾ã™ã€‚
+
+================================
+About execution
+================================
+Directory at runtime
+C:\Users\shuex\OneDrive\Desktop\javaRPG>
+
+Execution command.
+>java RPG\RPGtemple.java
+
+Or.
+>javac RPG\RPGtemple.java
+>java RPG.RPGtemple
+
+================================
+Details of each file
+================================
+RPG\RPGtemple.java
+
+RPG\ReaderFile.java
+RPG\ReaderFile.class
+
+-job_csv.csv
+
+...omniscient shortcuts.
+As it goes without saying, it is a shortcut to start the EXE we are supposed to worship, the "Command Prompt" (also called Terminal).
+The working file is blank, so you don't have to bother rewriting it to start the command prompt.
+This is the only file that is not available on Macs that use the Terminal.
+
+================================
+Update history
+================================
+Ver 1.01, added at 16:08 on 9 November 2021.
+Newly made to act RANDOM.
+Sue is very strong.
+Please adjust him gently.
+Swordsmen now attack continuously.
+Continuous attacks have roughly a 25% chance of being triggered.
+It will not be triggered if it is evaded or otherwise.
+
+Added at 9:40 on 10 November 2021, Ver 1.02.
+Status is now managed in CSV format files.
+When Flame or Heal is activated, Sue now acts with a definite probability.
+It moves even if the combat is disabled, so one turn of action is wasted.
+When using Heal, it has been adjusted so that it is applied to itself.
+Everyone now attacks characters other than themselves.
+The concept of experience has been introduced.
+You gain experience for every attack and recovery.
+If you attack an opponent of a higher level than you, the experience you get is increased
+If you attack an opponent of a lower level than you, the experience you gain is reduced.
+Being the first to level up does not mean you will have the highest level.
+Additional level ups.
+Leveling up is a function that enhances your status by collecting specified experience levels.
+The experience required to level up increases with each level up.
+When the maximum HP and MP are increased, HP and MP are recovered by the amount of the increase.
+The above features have tilted the win rate somewhat towards balance.
+However, Miki and Suu are still as strong as ever.
+It usually takes 20-50 turns to settle the game.
+
+The CSV monks are not assigned to anyone.
+You are free to do as you wish.
+And you can create new professions in the CSV.
+
+
+-11 Nov 2021, 13:59 Ver 1.03.
+Finally, the update to make use of the meaningless status 'Quickness' has arrived.
+The probability of action based on 'speed' has been created.
+The probability of action depends on the overall speed.
+The higher your 'speed', the more likely you are to be chosen.
+This has made it possible for the previously unattainable
+Runs (swordsmen) and diamonds (heroes) began to run amok.
+Sue has the highest speed, but she didn't seem to benefit from this.
+As for Miki... good luck.
+
+Ver 1.04, 16 November 2021, 16:33.
+'Hit Rate', 'Concentration Rate' and 'Evasion Rate' ('HIT Rate', 'CLT Rate' and 'ABS Rate' respectively) have been added.
+The hit rate is basically 97%.
+But the system does not reliably miss at 3%, and the increased evasion rate makes it even easier to miss.
+The basic evasion rate is set at 1% and is calculated as HIT*100/(100+ABS).
+In a nutshell, the calculation is 97%*100%/(100%+1%)=96.039...% â‰ˆ 96.04% for an attack to hit.
+The rate of congruence is "congruence rate x hit rate"; just because it is 2% does not mean that it will always hit at 2%.
+When calculated with the hit rate of 97% mentioned earlier, 97% x 2% = 1.94% is designed to be a congruency judgement.
+The luck factor has increased, but the onslaught of Lan (swordsman) has not stopped since 1.03.
+Sue (sorcerer) has become airborne.
+These three stats are increased by '+1%' each time you level up.
+The hit rate will definitely exceed 100%, but this is not a problem as it is designed to exceed 100%.
+Incidentally, magic attacks do not take into account the hit, hit to heart and evasion rates.
+They will always hit.
+
+17 Nov 2021, 10:57, Ver 1.05.
+A little bit of a shit update.
+Adjusted the Swordsman's continuous attacks so that they can be made infinitely.
+The damage of a single hit is halved" and "the judgment becomes more severe each time it is activated".
+In addition, it now also activates when dodged or when a critical hit is made.
+This is a shit update that adjusts strong characters upwards.
+We'll do our best from here to adjust the others (per sorcerer) upwards.
+
+Translated with www.DeepL.com/Translator (free version)
