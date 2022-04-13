@@ -213,77 +213,76 @@ RPGReaderFile.class
 
 -job_csv.csv
 
-All-knowing shortcuts.
-This is obviously an abbreviation for running an EXE, the "command line" (also known as terminal) that we need to handle.
-The job file is empty, so don't worry about overwriting it to run the command line.
-Only this file is not usable on Mac computers using Terminal.
+The all-knowing shortcut.
+Of course, this is the shortcut to run the EXE, the "command line" (also called terminal) to deal with.
+The working file is empty and does not need to be overwritten to run the command line.
+Only this file is not available on Macs that use Terminal.
 
 ================================
-Update history
+Update History
 ================================
-Version 1.01 added: 9 Nov 2021, 16:08.
-Recently switched to RANDOM operation.
+Added version 1.01: November 9, 2021 at 4:08 pm.
+Recently changed to random operation.
 Sue is very strong.
-Please adjust with care.
-Swordsmen are now attacking continuously.
-Continuous attacks have a 25% chance of triggering.
-Not triggered by dodge or evade.
+Set them up carefully.
+Swordsmen are still on the offensive.
+Continuous attacks have a 25% chance of activating.
+Do not activate by dodging or evading.
 
-Version 1.02 added: 10 November 2021, 21:40.
-Status is now managed in CSV format files.
-When activating 'Flame' or 'Heal', there is now a certain activation probability.
-If the combat fails, it will move on and lose the action move.
-When using Heal, heal is now set to apply to itself.
-Now everyone attacks characters other than themselves.
+Added version 1.02: November 10, 2021 at 21:40.
+Status is now managed as a CSV file.
+When activating Flame or Recovery, a certain activation probability is now set.
+Failing to wrestle will result in a move and loss of movement for the action.
+Heal is now set to apply itself when using Heal.
+Everyone is now attacking a character other than themselves.
 The concept of experience has been introduced.
-With each attack and heal, you gain experience.
-If you attack a higher level enemy than yourself, the experience gained increases.
-If you attack an enemy lower level than you, you gain less experience.
-Just because you are the first to level up does not mean that you will reach the highest level.
-Extra level.
-Level is a function of gaining a certain amount of experience to increase your status.
-The experience required to level up increases as you level up.
-As your maximum HP and MP increase, your HP and MP will recover at the rate of increase.
-The above characteristics tilt the probability towards a somewhat balanced state.
-However, Mickey and Suez remain as strong as ever.
-The game usually lasts between 20 and 50 moves.
+Every time you attack or heal, you gain experience for attacking or healing.
+If you attack an enemy of a higher level than you, you gain more experience.
+If you attack an enemy that is lower level than you, you gain less experience.
+Just because you have a higher level first does not mean you have reached the highest level.
+Other Levels
+Leveling up is a feature where you gain a certain amount of experience and increase your status.
+As you level up, the amount of experience needed to level up increases.
+As your maximum HP and MP increase, your HP and MP are reset based on this increase.
+Given the above characteristics, the probabilities are skewed towards some degree of balance.
+However, Mickey and Sue remain equally powerful.
+Battles usually last between 20 and 50 rounds.
 
-CSV Monk is not assigned to anyone.
-They are free to do what they want.
-You can also create new professions in CSV.
+CSV Monk does not take any responsibility.
+They can move freely.
+CSVs can also create new professions.
 
 
--11 Nov 2021, 13:59, version 1.03.
-Finally released an update that takes advantage of the thin "speed" state.
-Action options for "speed" have been created.
-Action options depend on the overall speed.
-The higher the "speed", the higher the probability of selection.
-This makes previously unattainable things possible.
-Run (swordsman) and Dia (hero) play against each other.
-Sue is the fastest, but doesn't seem to benefit from this.
-Miki on the other hand... Good luck to Miki.
+-November 11, 2021, 13:59, version 1.03.
+Finally, an update has been released that allows unobtrusive "speed" states.
+A "fast action" option has been created.
+The action option depends on the overall speed.
+The higher the "speed", the more options there are.
+This makes it possible to do things that were previously impossible.
+Lan (the swordsman) and Dia (the hero) are facing each other.
+Sue is the fastest, but she doesn't seem to benefit from it.
+Miki, on the other hand, is... Good luck to Miki. I actually think it's "Yuu-chan. And I'm a squirrel!" E. I'm really thinking about my illness." Little book! E. I've been thinking and thinking. I thought I saw it. I thought I did. Yes, "she said"! "I thought". I thought it was H! I thought. How strange! And I... I'm an evil pickpocket.
+I want to change that... This is really weird! Bad guy! Mayumi, are you okay! She's so cute!" (What? What time?
 
-1.04, see 16 November 2021, 16:33.
-Hit, focus and deflection rates (HIT, CLT and ABS rates) added.
-The success rate is close to 97%.
-However, it fails reliably at as low as 3%, and the probability of failure increases as the evasion rate increases.
-The basic outlier rate is 1%, calculated as HIT*100/(100+ABS).
-In simple terms, the calculation is 97%*100%/(100%+1%) = 96.039. % ≈ 96.04% hit.
-The enrichment factor is "enrichment factor x success rate", and 2% does not always mean 2%.
-Using the above mentioned success rate of 97%, 97% x 2% = 1.94% would be the matching factor.
-The luck factor is increased, but Lana's (swordsman) attack power does not stop at 1.03.
-Sue (witch) has been turned into an airship.
-These three add +1% with each level up.
-The success rate is certainly over 100%, but that's not a problem since they are designed for 100%.
-By the way, magic attacks don't take into account hit, hit-win or evasion rates.
-They will always hit.
+1.04, November 16, 2021, 4:33 p.m.
+Added hit, focus and deflection speeds (HIT, CLT and ABS).
+Frame rate is close to 97%.
+However, it only takes 3% to ensure failure, and a high escape rate increases the probability of failure.
+The basic failure rate is 1% and the formula is HIT*100/(100+ABS).
+Simply put, the calculation is 97%*100/(100%+1%) = 96.039. percentage ≈ 96.04% HIT.
+The concentration factor is "concentration factor x success rate", where 2% is not necessarily equal to 2%.
+With the above 97% success rate, the compliance factor is 97% x 2% = 1.94%.
+Despite the increased luck factor, Lana's (Swordswoman) attack doesn't stop at 1.03.
+Sue (Witch) is now a dirigible.
+These three add +1% per level.
+The success rate is actually higher than 100%, but this is not a problem because the system is designed for 100%.
+By the way, magic attacks don't take into account hit points, hit points, win points, or dodge points.
+They always hit.
 
-Look at 1.05, 17 Nov 2021, 10:57.
-A bit of a shit update.
-Improved the swordsman's ability to launch an unlimited number of attacks in a row.
-"Single shot damage halved" and "Judgement is now harder each time it is triggered".
-Also now activates when you dodge or take a critical hit.
-This is a shitty update that buffs strong characters upwards.
-From now on we'll try to modify others upwards (for mages).
-
-Translated with www.DeepL.com/Translator (free version)
+See 1.05, November 17, 2021, 10:57.
+Minor update.
+Improved to allow swordsmen to make an unlimited number of attacks in a row.
+Damage per attack has been cut in half" and "harder to assess on each roll".
+Works well for evasion and critical strikes too.
+This is a silly update that moves strong characters up.
+In the future, we'll take care to change the others upwards (for mages).
